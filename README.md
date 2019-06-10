@@ -32,11 +32,14 @@
 `python3 app.py`
 
 # 展示
-###首页
+首页
 ![image](https://raw.githubusercontent.com/DiCaprio17/native-blog/master/test/test1.png)
-###日志
+
+日志
 ![image](https://raw.githubusercontent.com/DiCaprio17/native-blog/master/test/test2.png)
-###评论
+
+评论
 ![image](https://raw.githubusercontent.com/DiCaprio17/native-blog/master/test/test3.png)
-###管理
+
+管理
 ![image](https://raw.githubusercontent.com/DiCaprio17/native-blog/master/test/test4.png)
