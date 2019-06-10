@@ -10,6 +10,8 @@
 # 搭建开发环境
 `$ pip3 install aiohttp jinja2 aiomysql markdown`
 # 配置
+## 数据库
+执行`conf/create_tables.sql`创建表
 ## mysql
 
     configs = {
@@ -19,7 +21,7 @@
 	    'port': 3306,
 	    'user': 'root',
 	    'password': '123456',
-	    'db': 'awesome'
+	    'db': 'awesome'  # 数据库名称
 	    },
 	    'session': {
 	    'secret': 'Awesome'
