@@ -1,4 +1,4 @@
-# fruits-and-vegetables
+# native-blog
 基于python3.6
 
 根据廖雪峰的Python教程改写的原生Python实现网上个人博客，包含日志、用户和评论部分
